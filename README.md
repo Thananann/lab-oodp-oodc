@@ -39,7 +39,7 @@ Which of the following lines are valid?
 4. Printer​ eg1 ​ = ​ ​ new​ ​ Scanner​ ();
 
 ```
-Your answers
+Your answers The answer is 2
 ```
 
 
